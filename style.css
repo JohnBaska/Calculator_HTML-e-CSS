@@ -31,14 +31,14 @@ body{
 .calculadora_financeira, .calculadora{
     background: rgba(0, 0, 0, 0.4);
     border-radius: 30px;
-    width: 22%; /*330px*/
+    width: 330px;
     height: 500px;
 }
 
 .calculadora{
     position: absolute;
     top: 25%;
-    left: 39%;
+    left: 43%;
     right: 39%;
 }
 
